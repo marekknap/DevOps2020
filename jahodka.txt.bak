@@ -1,0 +1,12 @@
+## Blockquotes
+toto je jahodka
+
+> Blockquotes can also be nested...
+<<<<<<< HEAD
+>> ...by using addit greater-than signs right next to each other...
+=======
+>> ...by using additional greater-than signs right  to each other...
+>>>>>>> 5253e8f911939787c65738a2458e223cfa20ca80
+
+toto neni jahodk
+
